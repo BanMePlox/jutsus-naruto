@@ -1,0 +1,1097 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "JutsusNarutoMukito",
+				"abbreviation": "JNM",
+				"full": "Jutsus Naruto Mukito",
+				"url": "https://www.dandwiki.com/wiki/Naruto:_Shinobi_(5e_Class)#Chakra_Natures",
+				"authors": [
+					"Mukito"
+				],
+				"convertedBy": [
+					"Mukito"
+				],
+				"version": "unknown"
+			}
+		],
+		"dateAdded": 1600023066,
+		"dateLastModified": 1600023066,
+		"_dateLastModifiedHash": "e74810b653"
+	},
+	"optionalfeature": [
+		{
+			"name": "Shadow Clone",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 4 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you create up to five clones, each clone created in this way counts as a different casting of the Jutsu, but still only requires one action. Each clone 5 hit points and the chakra spent creating it (this applies to things that would reduce the cost). The clones can take actions as normal, however they do not benefit from the Extra Attack feature. You control them and they act on the same initiative as you. They last until they are reduced to 0 hit points, they expend all of their chakra, you dismiss them at will, or you fall unconscious. If the clone still has chakra when it dissipates, you regain any remaining chakra from the clone - 4 (minimum 0)."
+			]
+		},
+        {
+			"name": "Healing Seal",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"You draw a healing seal on your chosen surface then infuse it with your Chakra. As a bonus action, you may cause one creature touching your seal receives healing pulse of chakra. When activated, each chosen creature within range heals for 1d6 hit points. You may increase this healing by 1d6 hit points for every 2 additional chakra spent to a maximum of 4d6."
+			]
+		},
+        {
+			"name": "Enclosing Technique",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 10 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"Over the course of 1 minute, you may write complex formulas onto one scroll within your possession. You can draw a number of formula scrolls equal to your proficiency bonus + your spellcasting modifier. If you exceed your maximum number of formula scrolls available, the oldest formula scroll immediately ends before the new one applies. As an action while in possession of a formula scroll, you may use this jutsu, storing an amount of objects you are touching that are not in possession of another creature inside a formula scroll depending on the size. Scrolls, Handy haversacks, and bags of holding cannot be stored within scrolls, if attempted, the attempt fails and the scroll, and any of its contents, are destroyed. Objects within a scroll are sent to their own dimension exactly as large as the scroll's maximum capacity."
+			]
+		},
+        {
+			"name": "Super Beast Imitating Drawing",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: CR+3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"You may spend 1 additional minute writing on a formula scroll to paint an intricate illustration of a creature with a CR no greater than your level that are your size category or smaller and do not have a flying speed. These creatures must be beasts or monstrosities and can not have legendary actions. As an action, you may use this jutsu, bringing the creature to life anywhere within your reach. If the creature created uses PECR or has a level instead of a CR, its CR counts as half as much for this jutsu's cost. Creatures created in this way act on your turn and use your actions, but have their own movement speed. You may concentrate on up to 2 instances of this jutsu at a time.                "
+			]
+		},
+        {
+			"name": "Basic Crystal Style Technique",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you can create 1 crystal no larger than would fit in the palm of your hand. It can act as any gemstone of any value. A creature must succeed a DC 12 + your Intelligence modifier Intelligence (Investigation) check to determine that it is artificial, reducing its price to 10 gp.                "
+			]
+		},
+        {
+			"name": "Crimson Fruit",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"You create a 15 foot radius dome of crystals anywhere within range. Each wall has 20 AC and 25 hit points. If a creature is within the targeted area when this jutsu is cast, they may attempt a Dexterity saving throw as a reaction, moving to the closest edge of this area on a success."
+			]
+		},
+        {
+			"name": "Basic Fire Style Technique",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 0 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you choose a nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.You instantaneously extinguish the flames within the cube.You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.You cause simple shapes—such as the vague form of a creature, an inanimate object, or a location—to appear within the flames and animate as you like. The shapes last for 1 hour.If you cast this Jutsu multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action.Alternatively, when you cast this Jutsu you can create fire, such as lighting a torch, lamp, or campfire. Flames can be produced and used in any way you see fit that does not cause direct harm to an object or creature. This includes the ability to keep warm in a cold environment."
+			]
+		},
+        {
+			"name": "Cloud-Style Flame Beheading",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3+ de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you coat your blade in fire, sweeping the area in flames. You may make an attack against any creatures of your choice within range, dealing an additional 1d10 fire damage on a hit. You may increase this jutsu's range by 5 feet for every 4 additional chakra spent. You may target creatures with this attack in the same way at the end of each of your turns. You must spend half this jutsu's cost, rounded down, at the end of each turn you concentrate on this jutsu. If you move more than 5 feet after maintaining this jutsu, you lose concentration.                "
+			]
+		},
+        {
+			"name": "Substitution",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As a reaction, when you are hit by an attack and would take damage, you can lower the damage by 1d10 + your Shinobi Level and teleport up to 15 ft. in any direction to an unoccupied space during which you take the Hide action. A log or other generic object is left in your place and you take any left-over damage from that attack. You can add an additional 1d10 per chakra point spent over the initial cost."
+			]
+		},
+        {
+			"name": "Cloud-Style Reverse Beheading",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"When you make an attack, you feign an attack against one creature within your melee weapon's reach while spinning to attack a creature on the opposite side of you within your melee weapon's reach. Both creatures must attempt a Wisdom saving throw. On a failure, they become stunned until the end of their next turn."
+			]
+		},
+        {
+			"name": "Bisecting Claw",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you form a large, two pronged claw from your nature's element. For this jutsu's duration, you gain a light melee weapon that deals your unarmed strike damage with a damage type of your Gifted User element's primary damage type. Every attack with this weapon attacks every creature within 5 feet of the wielder. You may only have 1 weapon created by a Path of Specialization unique jutsu at a time, and if another creature wields this weapon, it still uses your attack and damage roll bonuses. This weapon has your AC and 25 hit points.                "
+			]
+		},
+        {
+			"name": "Transformation",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1 de chakra por hora"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you transform into a person, creature or non-magical object you have seen before or have a basic idea of, and become identical visibly to that image. Creatures must make an Investigation check to notice that you aren't what you appear to be. If it saw you performing the Jutsu, it automatically succeeds. Your statistics remain the same. You can not become a light source, armor, tool, vehicle, or a creature with a different size category and you can not recreate a magical effect. You may undo this transformation as a bonus action."
+			]
+		},
+        {
+			"name": "Shadow of the Dancing Leaf",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As a bonus action, you momentarily increase your physical ability by a significant amount. Though not as efficient as a normal Body Flicker, this jutsu is far more versatile. You may move across any liquid surface— such as water, acid, mud, snow, quicksand, or lava— as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). If you cast this Jutsu while submerged in a liquid, the Jutsu carries you to the surface of the liquid at a rate of 60 feet per round. Additionally, your movement speed increases by half its total (rounded down), and attacks of opportunity against you have disadvantage."
+			]
+		},
+        {
+			"name": "Paralysis Seal",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"You draw a paralysis seal on your chosen surface then infuse it with Chakra. The seal triggers when any creature other than you gets within range of the seal. When triggered, each creature other than you within range must pass a Constitution saving throw or be paralyzed for 1 minute. A creature touching the seal as it triggers must make a Constitution saving throw at disadvantage. At the end of each of its turns, the affected creature can make another Constitution saving throw. On a success, the creature is no longer affected by the seal.                "
+			]
+		},
+        {
+			"name": "Attack of the Demon Blade",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 4 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"When given every advantage, a proficient assassin can kill in a single upward slice. As part of an attack with a weapon you are proficient with against a restrained creature, you deal your damage roll's maximum possible roll, and the target is no longer restrained as you cut their bindings."
+			]
+		},
+        {
+			"name": "Basic Water Style Technique",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 0 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you choose an area of water that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:",
+                "You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn't have enough force to cause damage.",
+                "You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.",
+                "You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.",
+                "If you cast this Jutsu multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action."
+			]
+		},
+        {
+			"name": "Flying Claw",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 2 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As a bonus action, you jump 20 feet straight into the air until the beginning of your next turn, using chakra to suspend yourself for a moment, enabling you to attack flying enemies or grab high ledges."
+			]
+		},
+        {
+			"name": "Palm Bottom",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1+ de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you make a single unarmed strike as you directly inject chakra into a creature's tenketsu. On a hit, the target is stunned until the end of their next turn. You deal 2 force damage for every additional chakra point spent.                "
+			]
+		},
+        {
+			"name": "Gentle Step Twin Palm ",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra + Palm Bottom"
+					]
+				}
+			],
+			"entries": [
+				"As a bonus action immediately after you use Palm Bottom, you follow up with a second palm strike. You use Palm Bottom again without spending its chakra cost, dealing the same amount of damage as the first. At the end of your turn, the target moves 5 ft. away from you for each Palm Bottom that hit them.                "
+			]
+		},
+        {
+			"name": "Basic Taijutsu Technique",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As a bonus action, you make 2 unarmed strikes."
+			]
+		},
+        {
+			"name": "Tenketsu Blocking Strike",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1+ de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As part of an unarmed strike, you strike with two fingers extended, piercing the opponent's chakra network and temporarily blocking its flow. The target loses a number of chakra points equal to the amount of chakra spent. If they do not have any chakra points remaining, they instead take twice as much necrotic damage as chakra spent."
+			]
+		},
+        {
+			"name": "Instant Water",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As a bonus action or reaction to being hit by an attack, you convert your chakra into high-speed water propelled from your feet. You move 15 feet in any direction, including straight up. You may double its cost to make an unarmed strike immediately after. If you use this as a reaction, the damage from the attack is halved.                "
+			]
+		},
+        {
+			"name": "Flame Whirlwind",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, fire erupts around your body in a spiraling manner as you launch it towards the target. Make a ranged spell attack. On a hit, the target takes 1d8 + your Intelligence modifier fire damage.                "
+			]
+		},
+        {
+			"name": "Exploding Flame Shot            ",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 4 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you can create three balls of fire from your hands. Make a ranged spell attack for each. You can target a person with all three or one person with each. On a hit, the target takes 2d6 + your Intelligence modifier fire damage and is set on fire. At the start of its turn, it takes 1d6 fire damage. At the end of each of its turns, the target must make a Constitution saving throw. On a successful save, it's no longer on fire. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), it is no longer on fire."
+			]
+		},
+        {
+			"name": "Fire Rat            ",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra, Exploding Flame Shot"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you can create three rat-like balls of fire that land anywhere within range. Each fire rat has 5 hit points and 12 AC, and occupies a 5 ft. cube. When a creature moves through a fire rat's space or a fire rat drops to 0 hit points, it detonates. You may detonate up to 3 fire rats as a bonus action. When a fire rat detonates, every creature within 5 ft. of the fire rat must attempt a Dexterity saving throw. On a failure, they take 2d8 + your Intelligence modifier fire damage."
+			]
+		},
+        {
+			"name": "Fox Fire            ",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 6 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you create 10 hand-sized fireballs that form a circle in front of you that last for this jutsu's duration. As a bonus action, you may direct up to 5 of these fireballs at a creature within range, dealing 1 fire damage per fireball."
+			]
+		},
+        {
+			"name": "Great Fireball",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you expel fire from your mouth, shaping it into a massive orb of roaring flame. The flames engulf the target and leave a crater in the ground. Every creature in a 10 ft. radius centered on one point within range must make a Dexterity saving throw. On a failure, they take 8d6 + your Intelligence modifier fire damage. On a success, they take half as much damage. You may increase this jutsu's radius by 5 ft. or increase its damage by 1d6 for every 2 additional chakra points spent.                "
+			]
+		},
+        {
+			"name": "Intelligent Hard Work",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 8+ de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you expel a wave of fire from your mouth. Make a ranged spell attack against every creature within a 30 ft. cone. On a hit, the target takes 6d8 + your Intelligence modifier fire damage. You may increase this jutsu's range by 10 ft. or increase its damage by 1d6 for every 2 additional chakra points spent."
+			]
+		},
+        {
+			"name": "Great Fire Annihilation",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 14 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you expel fire from your mouth in the shape of a massive fireball. Due to its size, this technique is extremely difficult to either avoid or contain. Each creature in the area must make a Dexterity saving throw, taking 6d6 + your Intelligence modifier fire damage on a failure, or half as much damage on a success. The targets cannot benefit from Evasion. For this jutsu's duration, as a bonus action while you are within 15 ft. of the same area, you can deal an additional 2d6 fire damage in the same area."
+            ]
+		},
+        {
+			"name": "Immortal Heated Pursuit",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5-10 de chakra, Great Fire Anhilation"
+					]
+				}
+			],
+			"entries": [
+				"As a bonus action immediately after casting Great Fire Annihilation, or as an action immediately after dealing its additional damage, you shape your flames to propel a creature. One creature of your choice within the area takes half as much damage and moves 60 ft. in one direction, and 30 ft. in another. You may spend an additional 7 chakra to allow the target to take the attack action."
+            			]
+		},
+        {
+			"name": "Phoenix Sage Fire",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 8 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you expel a burst of fire that occupies a 5 ft. cube area. You may move this fire burst up to 30 ft. at the end of each of your turns, and it moves in relation to you automatically when you move. The first time the fireball enters a creature's space on each of your turns, and each time a creature passes through or ends their turn within the fireball, they must attempt a Dexterity saving throw. On a failure, the target takes 3d6 + your Intelligence modifier fire damage. On a success, they take half as much damage.",
+                "Each fire burst has 5 hit points, and can not act in any way other than moving, but is otherwise mechanically identical to you. If a fire burst exits this jutsu's range, it automatically is destroyed. You may concentrate on a number of casts of this jutsu up to your Intelligence modifier at a time."
+			]
+		},
+        {
+			"name": "Fire Dragon Flame Bullet",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 22 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you spit a long snake of fire, with its mouth roaring like a dragon. Each creature in the area must make a Dexterity saving throw, taking 10d6 + Intelligence modifier fire damage and catching on fire on a failure. Half as much on a success. At the start of its turn, it takes 2d10 fire damage. At the end of each of its turns, a creature must make a Constitution saving throw. On a successful save, it's no longer on fire. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), it is no longer on fire."
+			]
+		},
+        {
+			"name": "Dragon Flame Caterwaul",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3-8 de chakra, Fire Dragon Flame Bullet"
+					]
+				}
+			],
+			"entries": [
+				"When you cast Fire Dragon Flame Bullet, you split the dragon into multiple smaller mouths of fire. Fire Dragon Flame Bullet only targets one creature within range, but they have disadvantage or do not benefit from Evasion, your choice. You may spend 5 additional chakra to cause both of these effects."
+			]
+		},
+        {
+			"name": "Pheasant Hunter",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 32 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you shape Fire Style chakra into a single massive pheasant capable of temporarily fighting off even the tailed beasts. A pheasant hunter appears 10 feet in front of you, and you may control it as a bonus action on the turn you summon it."
+			]
+		},
+        {
+			"name": "Great Fireball",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you expel fire from your mouth, shaping it into a massive orb of roaring flame. The flames engulf the target and leave a crater in the ground. Every creature in a 10 ft. radius centered on one point within range must make a Dexterity saving throw. On a failure, they take 8d6 + your Intelligence modifier fire damage. On a success, they take half as much damage. You may increase this jutsu's radius by 5 ft. or increase its damage by 1d6 for every 2 additional chakra points spent.                "
+			]
+		},
+        {
+			"name": "Burning Ash",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 14 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you exhale a 20-foot sphere of ash. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. As a bonus action, for 1 chakra point, you can move the cloud 15 feet in any direction.",
+                "If the cloud comes in contact with fire, it ignites. The cloud is destroyed, and every creature within the cloud must attempt a Dexterity saving throw, taking 8d10 fire damage on a failure."
+			]
+		},
+        {
+			"name": "Flint Yagura            ",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 30 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you lace a 1000 ft. tall, 15 ft. radius cylinder of air with volatile, dormant Fire Style chakra. If even a spark or ember of fire comes in contact with this area must make a Dexterity saving throw. On a failure, they take 10d6 + your Intelligence modifier fire damage, or half as much on a success. After this occurs, the Fire Style chakra is destroyed."
+            		]
+		},
+        {
+			"name": "Concealed Mouth Ember",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"When you cast a Fire Style jutsu, you may use this jutsu to compress it into a barely-stable ember that is slightly warm to the touch in the possession of one willing creature you can touch of your choice. The jutsu's normal effects are forgone. When the ember takes at least 1 damage, the creature that dealt the damage automatically uses the jutsu, using your jutsu save DC and attack roll and forgoing its chakra cost. If this jutsu's duration ends, the creature in possession of the ember is targeted by the jutsu stored within it, and the ember is destroyed."
+			]
+		},
+        {
+			"name": "Vanishing Smoke Prison",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 8 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"You create a cloud of smoke around you. For any creature that doesn't have levels in the [Path_of_the_Assassin (Shinobi World Supplement)|Path of the Assassin]], this area is considered heavily obscured beyond 10 feet, and any scents and sounds can not be detected within this cloud. Additionally, any creatures who are breathing when this jutsu is cast must attempt a Constitution saving throw, being stunned until the end of their turn on a failure."
+			]
+		},
+        {
+			"name": "Hiding in Ash",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 2 de chakra + Vanishing Smoke Prison"
+					]
+				}
+			],
+			"entries": [
+				"When you cast Vanishing Smoke Prison, you convert its smoke into red hot embers. When a creature ends their turn in the cloud, they automatically take 2 fire damage."
+			]
+		},
+        {
+			"name": "Smoke Clone",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"When you create a shadow clone, you fill its body with a small, putrid flame that produces a thick smoke. When a smoke clone is reduced to 0 hit points or dispelled, its surroundings in a 10 ft. radius, which spreads around corners, becomes heavily obscured by smoke until the end of your next turn. This also causes you to not regain the 4 chakra spent to create the clone."
+			]
+		},
+        {
+			"name": "Multiple Smoke Clone",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 2+ de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As a reaction when one of your smoke clones within range is reduced to 0 hit points or dispelled, you reform its smoke into more smoke clones within the original's smoke cloud. You must spend 2 additional chakra per clone created in this way."
+			]
+		},
+        {
+			"name": "Binding Smoke Prison            ",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As a reaction when one of your smoke clones within range is reduced to 0 hit points, you reform its smoke into a thick band of chakra around one creature within its smoke cloud. The target must attempt a Strength saving throw. On a failure, they become restrained for 1 minute. They or a creature that can touch them may retry this saving throw as an action, ending this effect early on a success.                "
+			]
+		},
+        {
+			"name": "Fire-Storm Shuriken",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 8+ de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you create a storm of shuriken made of fire within 120 feet centered on a point you can see. The flame-shuriken shower down in a 20-foot radius cylinder that reaches 120 feet high. All creatures within range must attempt a Dexterity Saving Throw.On a failure, they take 5d6 + your Intelligence modifier fire damage. On a success, they take half as much. You may deal an additional 1d6 fire damage for every 2 additional chakra points expended."
+			]
+		},
+        {
+			"name": "Five Fire Gods' Fan Flames",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 14 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you summon a massive wall of fire. Each creature in the area must make a Dexterity saving throw, taking 6d8 + your Intelligence modifier fire damage on a failure, or taking half as much damage on a success. The area targeted by this jutsu counts as heavily obscured until the end of your next turn.                "
+			]
+		},
+        {
+			"name": "Nail Crimson Crow Leap",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 3 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"When you make a thrown weapon attack, the projectile leaves a trail of flames behind it. On a hit, the weapon deals twice as much fire damage instead of its normal damage, but the weapon is destroyed."
+			]
+		},
+        {
+			"name": "Uchiha Style: Dance of the Sun Halo",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 8 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you coat a melee weapon you are wielding in flame and move this jutsu's range, making an attack against one creature within your reach. On a hit, you deal your weapon's damage along with an additional 4d6 + your Intelligence modifier fire damage."
+			]
+		},
+        {
+			"name": "Flame Attack",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 10 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you cloak your fist in flame, transferring it to the target on contact. Make a melee spell attack against one creature within your reach. On a hit, they are set on fire, taking 2d10 fire damage at the start of each of their turns. At the end of each of their turns, they may make a Constitution saving throw. On a successful save, they are no longer on fire. If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), they are no longer on fire."
+			]
+		},
+        {
+			"name": "True Fire of Samadhi",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 10 de chakra + Flame Attack"
+					]
+				}
+			],
+			"entries": [
+				"When you use Flame Attack, you must concentrate on it, but its fire can not be extinguished by any means while you are concentrating it and the target automatically fails the saving throw to avoid damage."
+			]
+		},
+        {
+			"name": "Flame Capture",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 10 de chakra + Flame Attack"
+					]
+				}
+			],
+			"entries": [
+				"When you use Flame Attack, you shape your fire into a long whip. You may target a creature within twice your reach, and the target is thrown up to twice this jutsu's remaining reach or restrained until they succeed the saving throw to end Flame Attack."
+			]
+		},
+        {
+			"name": "Fire Style: Bursting Rasengan",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 15 de chakra + Rasengan"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you form a Rasengan out of fire style chakra and burst it into dozens of much smaller Rasengan. You make a ranged spell attack against every creature within range(15 ft cone), dealing 3d10 + your Intelligence modifier fire. The target must succeed on a Dexterity saving throw or become burning.                "
+			]
+		},
+        {
+			"name": "Heated Aura",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 2 de chakra + 1 chakra per round after the first"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you exude an extraordinary amount of heat and fire in a 15-foot radius. The heat and fire feel comforting and soothing to allies, but they cause great pain and anguish for your enemies. You may cause any creatures that end their turn within range to either attempt a Constitution saving throw or regain 1 hit point. On a failure of the saving throw, they take 1d10 + your Intelligence modifier fire damage and being pushed out of range on a failure, taking half as much damage on a success."
+			]
+		},
+        {
+			"name": "Flame Incarnation",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 8 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"You wreathe yourself in flames as a bonus action. You become immune to fire damage and resistant to cold damage. Creatures that make successful melee attacks against you take 1d6 + your Intelligence modifier fire damage."
+			]
+		},
+        {
+			"name": "Flame-Burst Shot",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 5 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you summon a beam of fire out of your palm. All creatures within this line must make a Dexterity Saving Throw. On a failure, they take 1d6 + your Intelligence modifier fire damage. On a success, they take half as much damage."
+			]
+		},
+        {
+			"name": "Phoenix Form",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 16 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you enter a form and trance that’s connected to the Great Phoenix. Flames race harmlessly across your body, shedding bright light in a 30-foot radius and dim light for an additional 30 feet for the Jutsu's duration. Until the Jutsu ends, you gain the following benefits:",
+                "You are immune to fire damage and have resistance to cold damage.",
+                "You gain a +2 to your AC, damage and attack rolls.",
+                "Any creatures of your choice that move within 5 feet of you (once per turn) or ends its turn there takes 1d10 fire damage.",
+                "As an bonus action, you can create a 15-foot line of fire that persists until the end of your next turn. Every creature in the line must make a Dexterity saving throw. They take 2d8 + your Intelligence Modifier fire damage on a failed save, or half as much damage on a successful one."
+			]
+		},
+        {
+			"name": "Phoenix's Regeneration",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 16+ de chakra"
+					]
+				}
+			],
+			"entries": [
+				"You touch a willing creature within 10 feet and engulf them in flames. You momentarily grow wings made of fire as you cast this Jutsu. The target heals 6d6 + your Intelligence modifier. For the next minute, the target heals 2d6 + your Intelligence modifier at the start of their turn. By spending additional chakra points, you can increase the initial healing by 1d6 per 2 chakra points used."
+			]
+		},
+        {
+			"name": "Fire Chakra Mode",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 15 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an bonus action, you burst yourself into flames as fire courses through your blood and veins, greatly enhancing your Fire Style abilities, as well as providing defense from the protective flames. During the duration of this jutsu, you gain a +2 bonus to your AC, and all damage you take is reduced by 1d10 + your Intelligence modifier. If the damage is fire or cold, you may reduce the damage by twice as much. If the damage is reduced to 0 from this effect, you may use your reaction to cast a Fire Style jutsu against the target for half the cost. At the end of each of your turns, you must roll a Constitution saving throw. On failure, you take 1d10 fire damage that can not be reduced by this feature. You must spend 2 chakra at the beginning of each turn to maintain this effect."
+			]
+		},
+        {
+			"name": "Spiraling-Death Flare",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 6-14 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"As an action, you send a group of swirling bright white flames from your hands. Each creature of your choice in a 30-foot cone must make a Constitution Saving Throw. On a failure, they take 3d6 + your Intelligence modifier fire damage and are blinded until the end of their next turn. On a success, they take half as much damage and aren’t blinded. This Jutsu's damage increases by 1d6 for every 2 additional chakra points spent."
+			]
+		},
+        {
+			"name": "Fire Style Shadow Clone",
+			"source": "Jutsus Naruto Mukito",
+			"page": 1,
+			"featureType": [
+				"J"
+			],
+            "prerequisite": [
+				{
+					"item": [
+						"Coste: 1 de chakra"
+					]
+				}
+			],
+			"entries": [
+				"When you create a shadow clone, you may imbue it with Fire Style chakra, causing it to be visibly ablaze. When it is hit with a melee attack, it deals 1d6 fire damage to the source of the damage. This also causes you to not regain the base chakra spent to create the clone."
+			]
+		}
+
+	]
+}
